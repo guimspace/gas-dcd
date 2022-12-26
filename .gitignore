@@ -1,3 +1,14 @@
+src/tests/
+
+appsscript.json
+
+clasp.sh
+.clasp.json
+.clasprc.json
+
+**.min.html
+**.min.js
+
 # Logs
 logs
 *.log
